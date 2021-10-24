@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sheunl](https://blog.octobit.xyz/)
 
-- 📫 How to reach me **info@numinetech.com**
+- 📫 How to reach me **https://twitter.com/sheuntl**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheunl&show_icons=true&locale=en" alt="sheunl" /></p>
