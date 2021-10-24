@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lawani Oluwasheun</h1>
-<h3 align="center">An engineer interested in software for web, graphics & security</h3>
+<h3 align="center">An engineer interested in software for Energy & Finance</h3>
 
 <p align="left"> <a href="https://twitter.com/raszaq" target="blank"><img src="https://img.shields.io/twitter/follow/raszaq?logo=twitter&style=for-the-badge" alt="raszaq" /></a> </p>
 
