@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [software and design products](https://www.octobit.xyz/)
 
-- 🌱 I’m currently learning **Computer Systems & Security**
+- 🌱 I’m currently learning **Quantitative Research & Data Science**
 
 - 👨‍💻 All of my projects are available at [https://sheunl.github.io](https://sheunl.github.io)
 
