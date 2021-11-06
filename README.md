@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lawani Oluwasheun</h1>
 <h3 align="center">An engineer interested in software for Energy & Finance</h3>
 
-<p align="left"> <a href="https://twitter.com/raszaq" target="blank"><img src="https://img.shields.io/twitter/follow/raszaq?logo=twitter&style=for-the-badge" alt="raszaq" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sheuntl" target="blank"><img src="https://img.shields.io/twitter/follow/raszaq?logo=twitter&style=for-the-badge" alt="raszaq" /></a> </p>
 
-- 🌱 I’m currently learning **Quantitative Research & Data Science**
+- 🌱 I’m currently learning **Systems & Security**
 
 - 👨‍💻 All of my projects are available at [https://sheunl.github.io](https://sheunl.github.io)
 
