@@ -2,10 +2,9 @@
     <!-- main body-->
     <div id="main" class="container-fluid">
         <div class="home_intro">            
-            <hr>
             <div class="row main-menu">
                 <div class="column">
-                        <h4 style="text-align: center;">About</h4>
+                        <h2 style="text-align: center;">About</h2>
                         <ol class="the-list" style="text-align: center;">
                             <li>I am currently working on various software projects mostly on Web &amp; Linux. </li>
                         </ol>
@@ -30,7 +29,7 @@
         </div>
 
 
-        </div>       
+        <div>       
             <hr>
             <h3 class="text-center">Contact</h3>
             <ul class="text-center home-links" id="contactz">
