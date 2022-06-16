@@ -33,35 +33,35 @@
 </a>
                     
 </li>
-<li id="dot">·</li>
+
 <li>
 <a href="https://twitter.com/sheuntl" target="_blank"> 
 <i class="bi bi-twitter"></i>
 Twitter</a></li>
                     
 
-<li id="dot">·</li>
+
 <li>
  <a href="https://github.com/sheunl" target="_blank"> 
 <i class="bi bi-github"></i>
 Github</a></li>
                     
 
-<li id="dot">·</li>
+
 <li>
 <a href="https://stackoverflow.com/users/7276300/oluwasheun" target="_blank"> 
  <i class="bi bi-stack-overflow"></i>
 StackOverflow</a></li>
                     
                 
-<li id="dot">·</li>
+
 <li>
  <a href="https://codepen.io/sheunl" target="_blank"> 
  <i class="bi bi-code-square"></i>
 CodePen</a></li>
                     
                 
-<li id="dot">·</li>
+
 </ul>
 
 
