@@ -27,9 +27,7 @@
                 </ol>
                 </div>
         </div>
-
-
-        <div>       
+      
             <hr>
             <h3 class="text-center">Contact</h3>
             <ul class="text-center home-links" id="contactz">
