@@ -1,10 +1,7 @@
 <h1 align="center">Hi there, I'm Abdulrasaq Lawani. You can call me "Zaq". 👋</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheunl&color=blue&style=flat-square" alt="Profile Views" />
-</p>
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **[zaqlabs](www.zaqlabs.com)** & **[AIMyTutor](www.aimytutor.com)**
+- 🔭 I’m currently working on **[zaqlabs](https://www.zaqlabs.com)** & **[AIMyTutor](https://www.aimytutor.com)**
 - 🌱 I’m learning **AI/ML**, **Cloud** & **Infosec**.
 - 👯 I’m looking to collaborate on **Open-source Projects**
 - 💬 Ask me about **Web**, **AI/ML**, **Cloud** & **Infosec**.
