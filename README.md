@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Abdulrasaq Lawani. You can call me "Zaq". 👋</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_github_username&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sheunl&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me  
