@@ -7,14 +7,18 @@
 - 💬 Ask me about **Web**, **AI/ML**, **Cloud** & **Infosec**.
 - 📫 How to reach me: **info[at]zaqlabs.com**
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheunl&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheunl&theme=github_dark&hide_border=true" />
-</p>
-
 ## 📫 Connect with Me   
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zaqtl)
 
 ---
 ⭐️ **Feel free to explore my repositories and contribute!** 🚀
+
+## 📊 GitHub Stats  
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bep&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bep&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bep&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bep&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bep&theme=github)
+
+
