@@ -1,3 +1,3 @@
 ### Hello 👋
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheunl&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sheunl&theme=default)
