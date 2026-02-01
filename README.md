@@ -4,8 +4,10 @@ I am software engineer working on Fullstack Web, AI/ML & Embedded Systems. I fin
 
 ### Active
 
-### Old
-
 #### [Zaq Labs](https://zaqlabs.com/)
 
 AI agents and automation tools to help businesses streamline operations and boost productivity.
+
+### Old
+
+
