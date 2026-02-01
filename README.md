@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am software engineer working on Fullstack Web, AI/ML & Embedded Systems. I find fascination in working at the intersection of these three fields using technology to improve my life and those of others. Below are the projects I am currently working on:
+I am a software engineer working on full-stack web, AI/ML & Embedded Systems. I find fascination in working at the intersection of these three fields, using technology to improve my life and the lives of others. Below are the projects I am currently working on:
 
 ### Active
 
