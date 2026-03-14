@@ -8,6 +8,10 @@ I am a software engineer working on full-stack web, AI/ML & Embedded Systems. I 
 
 AI agents and automation tools to help businesses streamline operations and boost productivity.
 
+### [🇦🇮 AI Fundamentals](https://github.com/sheunl/ai-fundamentals)
+
+Single Repo with experimental AI libraries built from the ground up.
+
 ### Old
 
 #### [📱 LCD Socket and Pin Board](https://hackaday.io/project/204958-lcd-socket-and-pin-board)
