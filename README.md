@@ -4,10 +4,6 @@ I am a software engineer working on full-stack web, AI/ML & Embedded Systems. I 
 
 ### Active
 
-#### [🤖 Zaq Labs](https://zaqlabs.com/)
-
-AI agents and automation tools to help businesses streamline operations and boost productivity.
-
 ### [🇦🇮 AI Fundamentals](https://github.com/sheunl/ai-fundamentals)
 
 Single Repo with experimental AI libraries built from the ground up.
