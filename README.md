@@ -10,7 +10,7 @@ Single Repo with experimental AI libraries built from the ground up.
 
 ### [PHP Extension Skeleton](https://github.com/sheunl/phpext-skeleton)
 
-A tool to quickly generate PHP extension skeletons with all necessary boilerplate code and build configuration files base on the PHP source ext_skel.php script.
+A tool to quickly generate PHP extension skeletons with all necessary boilerplate code and build configuration files base on the PHP source ext_skel.php script. [Package](https://packagist.org/packages/sheunl/phpext-skeleton)
 
 ### Old
 
