@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I post my Algo & DS practice and Experiments here mostly. 
+I post my Alogrithm, Data Structure & System Design practice and visualizations here mostly.
 
 Businesses & products I am currently working on are the following:
 
