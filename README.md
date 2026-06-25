@@ -1,13 +1,10 @@
-### Hello 👋
+### Hello 👋, I am Rasaq
 
-#### Open Source Projects I am currently working on:
+#### Free & Open Source Projects I am currently working maintaining:
 
-[Algorithm, Data Structure & System Design practice and visualizations](https://github.com/sheunl/OpenSource_DSA_Systems).
+[AI and Machine Learning From Scratch](https://github.com/sheunl/ai-fundamentals).
+[Visualizing Algorithm, Data Structure & System Design](https://github.com/sheunl/OpenSource_DSA_Systems).
 
 
-#### Businesses & products I am currently working on are the following:
 
-[Zaq Labs](https://zaqlabs.com) - Low Code IT solutions.
-
-[French Pal](https://myfrenchpal.com) - Learn French with Flash Cards & AI 
 
