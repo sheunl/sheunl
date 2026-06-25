@@ -1,6 +1,6 @@
 ### Hello 👋, I am Rasaq
 
-#### Free & Open Source Projects I am currently working maintaining:
+#### Free & Open Source Projects I am currently working on:
 
 [AI and Machine Learning From Scratch](https://github.com/sheunl/ai-fundamentals).
 
