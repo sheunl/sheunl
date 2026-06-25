@@ -2,9 +2,9 @@
 
 #### Free & Open Source Projects I am currently working on:
 
-[AI and Machine Learning From Scratch](https://github.com/sheunl/ai-fundamentals).
+[AI and Machine Learning From Scratch (Maintainer)](https://github.com/sheunl/ai-fundamentals).
 
-[Visualizing Algorithm, Data Structure & System Design](https://github.com/sheunl/OpenSource_DSA_Systems).
+[Visualizing Algorithm, Data Structure & System Design (Maintainer)](https://github.com/sheunl/OpenSource_DSA_Systems).
 
 
 
