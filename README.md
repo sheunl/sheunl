@@ -6,7 +6,7 @@
 
 [Visualizing Algorithm, Data Structure & System Design (Maintainer)](https://github.com/sheunl/OpenSource_DSA_Systems).
 
-[Blog and Newsletter on Open Source development (Writings)](https://devtools.aolawani.com) 
+[Blog and Newsletter on Open Source development (Writings)](https://blog.aolawani.com) 
 
 
 
